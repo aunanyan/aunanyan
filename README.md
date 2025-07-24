@@ -27,7 +27,7 @@ No public projects yet, but actively learning and building my portfolio.
 
 - Email: arthur.unanyan96@gmail.com
 - GitHub: [aunanyan](https://github.com/aunanyan)
-- LinkedIn: [linkedin.com/in/ԱնունՔո](https://www.linkedin.com/in/artur-unanyan-5b79b5376)
+- LinkedIn: [Artur-Unanyan](https://www.linkedin.com/in/artur-unanyan-5b79b5376)
 ---
 
 _“Code is not just what a computer understands. It’s what humans can maintain.”_
