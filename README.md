@@ -26,7 +26,7 @@ No public projects yet, but actively learning and building my portfolio.
 ### 📫 Contact
 
 - Email: arthur.unanyan96@gmail.com
-- GitHub: [arturunanyan-dev](https://github.com/aunanyan)
+- GitHub: [aunanyan](https://github.com/aunanyan)
 - LinkedIn: [linkedin.com/in/ԱնունՔո](https://www.linkedin.com/in/artur-unanyan-5b79b5376)
 ---
 
