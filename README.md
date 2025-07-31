@@ -18,7 +18,9 @@ I love building REST APIs, learning clean code practices, and working on real-wo
 
 ### 🚀 Projects
 
-No public projects yet, but actively learning and building my portfolio.
+- [User Management API](https://github.com/aunanyan/UserManagementAPI) – ASP.NET Core-based API with login, register, and user CRUD functionality.
+- [Product Catalog API](https://github.com/aunanyan/ProductCatalogAPI) – Product management REST API built with .NET Core and Entity Framework.
+
 
 
 ---
